@@ -329,7 +329,7 @@ curl -X 'DELETE' \
 }
 ```
 -----------------------
-<a name="putdata" />
+<a name="postdata" />
 ### 远程调用设备功能－－下发指令
 **[POST] /remcall/:deviceId/channel/:channelId**
 #### 注释
